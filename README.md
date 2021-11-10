@@ -1,3 +1,39 @@
+Sistemas de Abertura de Chamados criado com ReactJS e Firebase (Com Realtime Database).
+
+![image](https://user-images.githubusercontent.com/44420212/141027353-b7133f31-d3b4-4049-b75d-199a4ac470d0.png)
+
+Foram usadas as seguintes ferramentas e libs no ReactJS:
+- Hooks do React
+- Sistemas de Rotas com React Router Dom
+- Context do React para passar propriedades pelos componentes (através do modelo de árvores) e facilitar o trabalho com os states.
+- Biblioteca "Toastify" para Alertas
+- Biblioteca "React Icons" para usar os Ícones
+- Biblioteca "Date FNS" para trabalharmos com Datas.
+
+No Firebase, usamos:
+- Banco de Dados não relacional
+- Authentication para autenticações
+- Realtime Database para banco de dados em tempo real (sincronizado com a aplicação)
+
+![image](https://user-images.githubusercontent.com/44420212/141027698-f740a056-695d-482d-8cd4-63473655b00a.png)
+
+--------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/44420212/141027759-b05d8c6e-104f-4335-b8a9-b50ac82145d7.png)
+
+- O sistema está pronto para uso e necessita de acertos pontuais. Você poderia, como forma de aprendizado, refazer  esse sistema usando um banco de dados relacional ao invés do Firebase.
+
+- Poderíamos ter usado um banco de dados relacional e uma API mais bonitinha, com Laravel, por exemplo. Mas a intenção aqui era dar ênfase ao ReactJS.
+
+- Qualquer dúvida, podem me contactar por email ou pelas minhas redes: https://www.linkedin.com/in/thiago-petherson-21b7b6193/
+
+- Lembrando que esse sisteminha foi feito com base nas aulas do curso da plataforma do Sujeito Programador, do instrutor Matheus.
+
+Bom uso e abraços !
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
