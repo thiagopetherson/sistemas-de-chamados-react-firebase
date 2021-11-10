@@ -4,7 +4,8 @@ Sistemas de Abertura de Chamados criado com ReactJS e Firebase (Com Realtime Dat
 
 Foram usadas as seguintes ferramentas e libs no ReactJS:
 - Hooks do React
-- Sistemas de Rotas com React Router Dom
+- Sistemas de Rotas com a dependência do React Router Dom
+- Dependência do Firebase para o React.
 - Context do React para passar propriedades pelos componentes (através do modelo de árvores) e facilitar o trabalho com os states.
 - Biblioteca "Toastify" para Alertas
 - Biblioteca "React Icons" para usar os Ícones
