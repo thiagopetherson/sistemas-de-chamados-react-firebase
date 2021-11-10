@@ -22,7 +22,9 @@ No Firebase, usamos:
 
 ![image](https://user-images.githubusercontent.com/44420212/141027759-b05d8c6e-104f-4335-b8a9-b50ac82145d7.png)
 
-- O sistema está pronto para uso e necessita de acertos pontuais. Você poderia, como forma de aprendizado, refazer  esse sistema usando um banco de dados relacional ao invés do Firebase.
+- O sistema está todo comentadinho (para facilitar a leitura e entendimento) e pronto para uso e pode ser que seja necessárias alterações pontuais, de acordo com a necessidade de cada um. 
+
+- Você poderia, como forma de aprendizado, refazer  esse sistema usando um banco de dados relacional ao invés do Firebase.
 
 - Poderíamos ter usado um banco de dados relacional e uma API mais bonitinha, com Laravel, por exemplo. Mas a intenção aqui era dar ênfase ao ReactJS.
 
